@@ -14,4 +14,5 @@ fn main() {
     println!("update & push for jenkins!");
     println!("update again to check scm poll!");
     println!("update again to check scm poll!");
+    println!("update again to check scm poll!");
 }
