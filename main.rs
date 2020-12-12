@@ -12,4 +12,5 @@ fn main() {
     // Print text to the console
     println!("Hello World!");
     println!("update & push for jenkins!");
+    println!("update again to check scm poll!");
 }
